@@ -1,6 +1,4 @@
 # CC3K – Chamber Crawler 3000
-A turn-based, rogue-like dungeon crawler implemented in **C++20**, the project demonstrates strong object-oriented design, modularity, and extensibility.
-
 ---
 
 ## 🧩 Overview
